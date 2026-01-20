@@ -1,0 +1,6 @@
+langchain_community==0.4.1
+langchain_core==1.2.7
+langchain_mistralai==1.1.1
+langchain_text_splitters==1.1.0
+python-dotenv==1.2.1
+streamlit==1.45.0
