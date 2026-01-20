@@ -32,7 +32,6 @@ git clone https://github.com/<your-username>/Smart-Notes-Q-A-Bot-RAG-based-.git
 cd Smart-Notes-Q-A-Bot-RAG-based-
 
 ##2. Create a Virtual Environment & Install Dependencies
-2. Create a Virtual Environment & Install Dependencies
 python -m venv env
 
 # On Windows
@@ -43,7 +42,7 @@ source env/bin/activate
 
 pip install -r requirements.txt
 
-3. Add Your Environment Variables
+##3. Add Your Environment Variables
 
 Create a .env file in the project root:
 
@@ -52,7 +51,7 @@ MISTRAL_API_KEY=your_api_key_here
 
 Do not push .env to GitHub.
 
-4. Run the App
+##4. Run the App
 streamlit run app.py
 
 
@@ -87,11 +86,11 @@ Chroma
 Streamlit
  – Web interface
 
-License
+##License
 
 This project is licensed under the MIT License. 
 
-Future Improvements
+##Future Improvements
 
 Support PDF/DOCX uploads
 
@@ -99,7 +98,7 @@ Show source references for answers
 
 Add conversation memory for multi-turn chat
 
-Author
+##Author
 
 Sara Sakeena Abdul Muthalib
 
