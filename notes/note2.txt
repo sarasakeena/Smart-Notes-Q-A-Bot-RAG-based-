@@ -1,0 +1,2 @@
+Vector databases store embeddings and allow similarity search.
+Chroma is a lightweight local vector database.
